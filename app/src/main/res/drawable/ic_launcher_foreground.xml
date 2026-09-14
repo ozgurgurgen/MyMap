@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera housing body -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M34,36h40c2.2,0 4,1.8 4,4v28c0,2.2 -1.8,4 -4,4h-40c-2.2,0 -4,-1.8 -4,-4v-28c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Camera mount / stand -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M51,72h6v12h-6z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M44,84h20v4h-20z" />
+    <!-- Camera lens outer circle (dark) -->
+    <path
+        android:fillColor="#1A1C20"
+        android:pathData="M54,54m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0" />
+    <!-- Camera lens inner circle (amber pupil/sensor) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,54m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <!-- Flash/IR sensor lamp -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M66,42m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+    <!-- Radar emission beam waves from top right -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFE082"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M76,28a16,16 0 0,1 12,12" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFCA28"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M80,22a24,24 0 0,1 18,18" />
+</vector>
+

@@ -1,0 +1,7 @@
+{
+  "name": "Radar Uyarı",
+  "description": "Türkiye sabit hız kamerası ve radar uyarı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
